@@ -1,0 +1,25 @@
+#-*- coding:UTF-8 -*-
+import os, Image,re,time
+class string_list():
+	def __init__(self,lists):
+		self.string_list=[]
+		self.string_list=lists
+
+	def get_max(self):
+		#返回序列中的最大值和所在位置
+		res=(0,0)
+		#doing
+
+		#get value
+		self.max_size=res[1] #存储最大值所在位置
+		return res 
+
+	def left_diff(self):
+		pass
+	def right_diff(self):
+		pass
+
+if __name__=="__main__":
+	a=[(2, 0), (3, 1), (4, 2), (1, 3), (1, 4), (2, 5), (1, 6), (1, 7), (1, 8), (1, 9), (2, 10), (8, 11), (6, 12), (4, 13), (0, 14), (2, 15)]
+	u=string_list(a)
+	print u.get_max()

@@ -1,0 +1,2296 @@
+a max is 3
+b max is 11
+samelike is 9
+a is
+[6, 0, 0]
+b is
+[2, 2, 4]
+a is
+[3, 0, 0]
+b is
+[6, 1, 0]
+a max is 3
+b max is 10
+samelike is 9
+a is
+[6, 0, 0]
+b is
+[1, 2, 3]
+a is
+[3, 0, 0]
+b is
+[5, 0, 2]
+a max is 3
+b max is 11
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 3]
+a is
+[3, 0, 0]
+b is
+[2, 5, 6]
+a max is 3
+b max is 4
+samelike is 9
+a is
+[6, 0, 0]
+b is
+[4, 3, -1]
+a is
+[3, 0, 0]
+b is
+[5, 1, 1]
+a max is 3
+b max is 2
+samelike is 7
+a is
+[6, 0, 0]
+b is
+[3, 4, 1]
+a is
+[3, 0, 0]
+b is
+[1, 7, 'null']
+a max is 3
+b max is 5
+samelike is 8
+a is
+[6, 0, 0]
+b is
+[1, 1, 1]
+a is
+[3, 0, 0]
+b is
+[1, 2, 2]
+a max is 3
+b max is 5
+samelike is 9
+a is
+[6, 0, 0]
+b is
+[5, 1, 0]
+a is
+[3, 0, 0]
+b is
+[3, 0, -2]
+a max is 3
+b max is 12
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[3, 4, 6]
+a is
+[3, 0, 0]
+b is
+[6, 4, 1]
+a max is 3
+b max is 11
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[1, 2, 8]
+a is
+[3, 0, 0]
+b is
+[6, 2, 2]
+a max is 3
+b max is 9
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[1, 10, 2]
+a is
+[3, 0, 0]
+b is
+[5, 7, 0]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 3]
+a is
+[3, 0, 0]
+b is
+[2, 5, 6]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[7, 5, 3]
+a is
+[3, 0, 0]
+b is
+[3, 5, 6]
+a max is 3
+b max is 2
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[4, 3, 2]
+a is
+[3, 0, 0]
+b is
+[3, 7, 'null']
+a max is 3
+b max is 2
+samelike is 7
+a is
+[6, 0, 0]
+b is
+[6, 2, 0]
+a is
+[3, 0, 0]
+b is
+[3, 3, 'null']
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 3]
+a is
+[3, 0, 0]
+b is
+[2, 5, 6]
+a max is 3
+b max is 12
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 0]
+a is
+[3, 0, 0]
+b is
+[2, 5, 5]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 3]
+a is
+[3, 0, 0]
+b is
+[2, 5, 6]
+a max is 3
+b max is 1
+samelike is 10
+a is
+[6, 0, 0]
+b is
+[0, 5, 0]
+a is
+[3, 0, 0]
+b is
+[3, 'null']
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 3]
+a is
+[3, 0, 0]
+b is
+[3, 4, 6]
+a max is 3
+b max is 4
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[7, 3, 2]
+a is
+[3, 0, 0]
+b is
+[1, 5, 6]
+a max is 3
+b max is 2
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[4, 3, 2]
+a is
+[3, 0, 0]
+b is
+[3, 7, 'null']
+a max is 3
+b max is 11
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[8, 3, 3]
+a is
+[3, 0, 0]
+b is
+[8, 0, 5]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 3]
+a is
+[3, 0, 0]
+b is
+[2, 5, 7]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[5, 5, 5]
+a is
+[3, 0, 0]
+b is
+[3, 5, 6]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 4]
+a is
+[3, 0, 0]
+b is
+[1, 4, 5]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 4]
+a is
+[3, 0, 0]
+b is
+[1, 4, 5]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 0]
+a is
+[3, 0, 0]
+b is
+[2, 5, 6]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 0]
+a is
+[3, 0, 0]
+b is
+[2, 5, 6]
+a max is 3
+b max is 6
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[1, 6, 4]
+a is
+[3, 0, 0]
+b is
+[6, 4, -5]
+a max is 3
+b max is 2
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[3, 6, 3]
+a is
+[3, 0, 0]
+b is
+[5, 6, 'null']
+a max is 3
+b max is 2
+samelike is 7
+a is
+[6, 0, 0]
+b is
+[4, 5, 0]
+a is
+[3, 0, 0]
+b is
+[2, 6, 'null']
+a max is 3
+b max is 2
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[2, 6, 3]
+a is
+[3, 0, 0]
+b is
+[4, 7, 'null']
+a max is 3
+b max is 2
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[4, 7, 3]
+a is
+[3, 0, 0]
+b is
+[5, 6, 'null']
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[5, 6, 3]
+a is
+[3, 0, 0]
+b is
+[2, 4, -1]
+a max is 3
+b max is 2
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[4, 3, 2]
+a is
+[3, 0, 0]
+b is
+[3, 8, 'null']
+a max is 3
+b max is 11
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 6, 4]
+a is
+[3, 0, 0]
+b is
+[3, 5, 7]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[5, 6, 3]
+a is
+[3, 0, 0]
+b is
+[2, 5, 6]
+a max is 3
+b max is 2
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[3, 6, 3]
+a is
+[3, 0, 0]
+b is
+[5, 6, 'null']
+a max is 3
+b max is 4
+samelike is 10
+a is
+[6, 0, 0]
+b is
+[5, -1, 1]
+a is
+[3, 0, 0]
+b is
+[1, 2, 3]
+a max is 3
+b max is 4
+samelike is 9
+a is
+[6, 0, 0]
+b is
+[4, 0, 0]
+a is
+[3, 0, 0]
+b is
+[1, 2, 2]
+a max is 3
+b max is 8
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 3]
+a is
+[3, 0, 0]
+b is
+[2, 5, 6]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[9, 3, 3]
+a is
+[3, 0, 0]
+b is
+[3, 6, 6]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[8, 5, 3]
+a is
+[3, 0, 0]
+b is
+[5, 7, 5]
+a max is 3
+b max is 4
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[0, 2, 4]
+a is
+[3, 0, 0]
+b is
+[3, 4, 4]
+a max is 3
+b max is 2
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[0, 7, 3]
+a is
+[3, 0, 0]
+b is
+[7, 6, 'null']
+a max is 3
+b max is 4
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[8, 5, 0]
+a is
+[3, 0, 0]
+b is
+[2, 8, 7]
+a max is 3
+b max is 6
+samelike is 10
+a is
+[6, 0, 0]
+b is
+[2, -1, 1]
+a is
+[3, 0, 0]
+b is
+[3, 1, 1]
+a max is 3
+b max is 5
+samelike is 10
+a is
+[6, 0, 0]
+b is
+[3, 0, -1]
+a is
+[3, 0, 0]
+b is
+[3, 1, 1]
+a max is 3
+b max is 6
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[2, 6, 5]
+a is
+[3, 0, 0]
+b is
+[8, 0, 3]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[3, 6, 1]
+a is
+[3, 0, 0]
+b is
+[2, 6, 4]
+a max is 3
+b max is 2
+samelike is 8
+a is
+[6, 0, 0]
+b is
+[2, 1, 0]
+a is
+[3, 0, 0]
+b is
+[1, 2, 'null']
+a max is 3
+b max is 2
+samelike is 7
+a is
+[6, 0, 0]
+b is
+[2, 0, 0]
+a is
+[3, 0, 0]
+b is
+[1, 1, 'null']
+[(0, '4.gif'), (0, '9.gif'), (0, 'A (2).gif'), (0, 'B (2).gif'), (0, 'C (2).gif'), (0, 'D (2).gif'), (0, 'E (2).gif'), (0, 'F (2).gif'), (0, 'G (2).gif'), (0, 'J (2).gif'), (0, 'J.gif'), (0, 'K (2).gif'), (0, 'M (2).gif'), (0, 'P_2.gif'), (0, 'Q (2).gif'), (0, 'R (2).gif'), (0, 'T (2).gif'), (0, 'U.gif'), (0, 'V (2).gif'), (0, 'W.gif'), (0, 'Y (2).gif'), (0, 'a.gif'), (0, 'b.gif'), (0, 'd.gif'), (0, 'f.gif'), (0, 'g.gif'), (0, 'h (2).gif'), (0, 'h.gif'), (0, 'k.gif'), (0, 'm.gif'), (0, 'n.gif'), (0, 'p.gif'), (0, 'q.gif'), (0, 'r.gif'), (0, 't.gif'), (0, 'v.gif'), (0, 'y.gif'), (175000, 'e.gif'), (617400, '6.gif'), (882000, 'N (2).gif'), (1134000, '2.gif'), (1612800, '3.gif'), (1612800, 'Z (2).gif'), (1658880, '7.gif'), (1764000, 'z.gif'), (2744000, 'c.gif'), (2939328, '5.gif'), (3265920, 'S (2).gif'), (3280500, 'X (2).gif'), (3686400, 's.gif'), (5103000, 'x.gif'), (5832000, '8.gif')]
+[(0, '2.gif'), (0, '3.gif'), (0, '5.gif'), (0, '7.gif'), (0, '8.gif'), (0, 'S (2).gif'), (0, 'U.gif'), (0, 'W.gif'), (0, 'X (2).gif'), (0, 'Z (2).gif'), (0, 'e.gif'), (0, 's.gif'), (0, 'x.gif'), (0, 'z.gif'), (30625, 'N (2).gif'), (30625, 'b.gif'), (30625, 'h.gif'), (30625, 'q.gif'), (35000, '4.gif'), (35000, 'B (2).gif'), (35000, 'D (2).gif'), (35000, 'E (2).gif'), (35000, 'F (2).gif'), (35000, 'J (2).gif'), (35000, 'J.gif'), (35000, 'K (2).gif'), (35000, 'P_2.gif'), (35000, 'R (2).gif'), (35000, 'T (2).gif'), (35000, 'd.gif'), (35000, 'h (2).gif'), (35000, 'k.gif'), (35000, 'p.gif'), (49000, 't.gif'), (55125, 'c.gif'), (55125, 'y.gif'), (56000, 'C (2).gif'), (56000, 'G (2).gif'), (56000, 'Q (2).gif'), (60025, '6.gif'), (61250, 'm.gif'), (61250, 'r.gif'), (63000, 'Y (2).gif'), (63000, 'f.gif'), (63000, 'g.gif'), (63000, 'n.gif'), (70875, 'M (2).gif'), (78750, 'a.gif'), (87500, 'v.gif'), (120050, '9.gif'), (126000, 'V (2).gif'), (229635, 'A (2).gif')]nn
+~~~~~~~~~~~~~~~~~~~~
+a max is 3
+b max is 11
+samelike is 9
+a is
+[6, 0, 0]
+b is
+[2, 2, 4]
+a is
+[3, 0, 0]
+b is
+[6, 1, 0]
+a max is 3
+b max is 10
+samelike is 9
+a is
+[6, 0, 0]
+b is
+[1, 2, 3]
+a is
+[3, 0, 0]
+b is
+[5, 0, 2]
+a max is 3
+b max is 11
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 3]
+a is
+[3, 0, 0]
+b is
+[2, 5, 6]
+a max is 3
+b max is 4
+samelike is 9
+a is
+[6, 0, 0]
+b is
+[4, 3, -1]
+a is
+[3, 0, 0]
+b is
+[5, 1, 1]
+a max is 3
+b max is 2
+samelike is 7
+a is
+[6, 0, 0]
+b is
+[3, 4, 1]
+a is
+[3, 0, 0]
+b is
+[1, 7, 'null']
+a max is 3
+b max is 5
+samelike is 8
+a is
+[6, 0, 0]
+b is
+[1, 1, 1]
+a is
+[3, 0, 0]
+b is
+[1, 2, 2]
+a max is 3
+b max is 5
+samelike is 9
+a is
+[6, 0, 0]
+b is
+[5, 1, 0]
+a is
+[3, 0, 0]
+b is
+[3, 0, -2]
+a max is 3
+b max is 12
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[3, 4, 6]
+a is
+[3, 0, 0]
+b is
+[6, 4, 1]
+a max is 3
+b max is 11
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[1, 2, 8]
+a is
+[3, 0, 0]
+b is
+[6, 2, 2]
+a max is 3
+b max is 9
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[1, 10, 2]
+a is
+[3, 0, 0]
+b is
+[5, 7, 0]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 3]
+a is
+[3, 0, 0]
+b is
+[2, 5, 6]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[7, 5, 3]
+a is
+[3, 0, 0]
+b is
+[3, 5, 6]
+a max is 3
+b max is 2
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[4, 3, 2]
+a is
+[3, 0, 0]
+b is
+[3, 7, 'null']
+a max is 3
+b max is 2
+samelike is 7
+a is
+[6, 0, 0]
+b is
+[6, 2, 0]
+a is
+[3, 0, 0]
+b is
+[3, 3, 'null']
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 3]
+a is
+[3, 0, 0]
+b is
+[2, 5, 6]
+a max is 3
+b max is 12
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 0]
+a is
+[3, 0, 0]
+b is
+[2, 5, 5]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 3]
+a is
+[3, 0, 0]
+b is
+[2, 5, 6]
+a max is 3
+b max is 1
+samelike is 10
+a is
+[6, 0, 0]
+b is
+[0, 5, 0]
+a is
+[3, 0, 0]
+b is
+[3, 'null']
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 3]
+a is
+[3, 0, 0]
+b is
+[3, 4, 6]
+a max is 3
+b max is 4
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[7, 3, 2]
+a is
+[3, 0, 0]
+b is
+[1, 5, 6]
+a max is 3
+b max is 2
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[4, 3, 2]
+a is
+[3, 0, 0]
+b is
+[3, 7, 'null']
+a max is 3
+b max is 11
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[8, 3, 3]
+a is
+[3, 0, 0]
+b is
+[8, 0, 5]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 3]
+a is
+[3, 0, 0]
+b is
+[2, 5, 7]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[5, 5, 5]
+a is
+[3, 0, 0]
+b is
+[3, 5, 6]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 4]
+a is
+[3, 0, 0]
+b is
+[1, 4, 5]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 4]
+a is
+[3, 0, 0]
+b is
+[1, 4, 5]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 0]
+a is
+[3, 0, 0]
+b is
+[2, 5, 6]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 0]
+a is
+[3, 0, 0]
+b is
+[2, 5, 6]
+a max is 3
+b max is 6
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[1, 6, 4]
+a is
+[3, 0, 0]
+b is
+[6, 4, -5]
+a max is 3
+b max is 2
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[3, 6, 3]
+a is
+[3, 0, 0]
+b is
+[5, 6, 'null']
+a max is 3
+b max is 2
+samelike is 7
+a is
+[6, 0, 0]
+b is
+[4, 5, 0]
+a is
+[3, 0, 0]
+b is
+[2, 6, 'null']
+a max is 3
+b max is 2
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[2, 6, 3]
+a is
+[3, 0, 0]
+b is
+[4, 7, 'null']
+a max is 3
+b max is 2
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[4, 7, 3]
+a is
+[3, 0, 0]
+b is
+[5, 6, 'null']
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[5, 6, 3]
+a is
+[3, 0, 0]
+b is
+[2, 4, -1]
+a max is 3
+b max is 2
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[4, 3, 2]
+a is
+[3, 0, 0]
+b is
+[3, 8, 'null']
+a max is 3
+b max is 11
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 6, 4]
+a is
+[3, 0, 0]
+b is
+[3, 5, 7]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[5, 6, 3]
+a is
+[3, 0, 0]
+b is
+[2, 5, 6]
+a max is 3
+b max is 2
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[3, 6, 3]
+a is
+[3, 0, 0]
+b is
+[5, 6, 'null']
+a max is 3
+b max is 4
+samelike is 10
+a is
+[6, 0, 0]
+b is
+[5, -1, 1]
+a is
+[3, 0, 0]
+b is
+[1, 2, 3]
+a max is 3
+b max is 4
+samelike is 9
+a is
+[6, 0, 0]
+b is
+[4, 0, 0]
+a is
+[3, 0, 0]
+b is
+[1, 2, 2]
+a max is 3
+b max is 8
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[6, 5, 3]
+a is
+[3, 0, 0]
+b is
+[2, 5, 6]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[9, 3, 3]
+a is
+[3, 0, 0]
+b is
+[3, 6, 6]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[8, 5, 3]
+a is
+[3, 0, 0]
+b is
+[5, 7, 5]
+a max is 3
+b max is 4
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[0, 2, 4]
+a is
+[3, 0, 0]
+b is
+[3, 4, 4]
+a max is 3
+b max is 2
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[0, 7, 3]
+a is
+[3, 0, 0]
+b is
+[7, 6, 'null']
+a max is 3
+b max is 4
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[8, 5, 0]
+a is
+[3, 0, 0]
+b is
+[2, 8, 7]
+a max is 3
+b max is 6
+samelike is 10
+a is
+[6, 0, 0]
+b is
+[2, -1, 1]
+a is
+[3, 0, 0]
+b is
+[3, 1, 1]
+a max is 3
+b max is 5
+samelike is 10
+a is
+[6, 0, 0]
+b is
+[3, 0, -1]
+a is
+[3, 0, 0]
+b is
+[3, 1, 1]
+a max is 3
+b max is 6
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[2, 6, 5]
+a is
+[3, 0, 0]
+b is
+[8, 0, 3]
+a max is 3
+b max is 3
+samelike is 0
+a is
+[6, 0, 0]
+b is
+[3, 6, 1]
+a is
+[3, 0, 0]
+b is
+[2, 6, 4]
+a max is 3
+b max is 2
+samelike is 8
+a is
+[6, 0, 0]
+b is
+[2, 1, 0]
+a is
+[3, 0, 0]
+b is
+[1, 2, 'null']
+a max is 3
+b max is 2
+samelike is 7
+a is
+[6, 0, 0]
+b is
+[2, 0, 0]
+a is
+[3, 0, 0]
+b is
+[1, 1, 'null']
+[(0, '4.gif'), (0, '9.gif'), (0, 'A (2).gif'), (0, 'B (2).gif'), (0, 'C (2).gif'), (0, 'D (2).gif'), (0, 'E (2).gif'), (0, 'F (2).gif'), (0, 'G (2).gif'), (0, 'J (2).gif'), (0, 'J.gif'), (0, 'K (2).gif'), (0, 'M (2).gif'), (0, 'P_2.gif'), (0, 'Q (2).gif'), (0, 'R (2).gif'), (0, 'T (2).gif'), (0, 'U.gif'), (0, 'V (2).gif'), (0, 'W.gif'), (0, 'Y (2).gif'), (0, 'a.gif'), (0, 'b.gif'), (0, 'd.gif'), (0, 'f.gif'), (0, 'g.gif'), (0, 'h (2).gif'), (0, 'h.gif'), (0, 'k.gif'), (0, 'm.gif'), (0, 'n.gif'), (0, 'p.gif'), (0, 'q.gif'), (0, 'r.gif'), (0, 't.gif'), (0, 'v.gif'), (0, 'y.gif'), (175000, 'e.gif'), (617400, '6.gif'), (882000, 'N (2).gif'), (1134000, '2.gif'), (1612800, '3.gif'), (1612800, 'Z (2).gif'), (1658880, '7.gif'), (1764000, 'z.gif'), (2744000, 'c.gif'), (2939328, '5.gif'), (3265920, 'S (2).gif'), (3280500, 'X (2).gif'), (3686400, 's.gif'), (5103000, 'x.gif'), (5832000, '8.gif')]
+a max is 1
+b max is 11
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[2, 2, 4]
+a is
+[13, 'null']
+b is
+[6, 1, 0]
+a max is 1
+b max is 10
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[1, 2, 3]
+a is
+[13, 'null']
+b is
+[5, 0, 2]
+a max is 1
+b max is 11
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 3]
+a is
+[13, 'null']
+b is
+[2, 5, 6]
+a max is 1
+b max is 4
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[4, 3, -1]
+a is
+[13, 'null']
+b is
+[5, 1, 1]
+a max is 1
+b max is 2
+samelike is 7
+a is
+[0, 1, 9]
+b is
+[3, 4, 1]
+a is
+[13, 'null']
+b is
+[1, 7, 'null']
+a max is 1
+b max is 5
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[1, 1, 1]
+a is
+[13, 'null']
+b is
+[1, 2, 2]
+a max is 1
+b max is 5
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[5, 1, 0]
+a is
+[13, 'null']
+b is
+[3, 0, -2]
+a max is 1
+b max is 12
+samelike is 10
+a is
+[0, 1, 9]
+b is
+[3, 4, 6]
+a is
+[13, 'null']
+b is
+[6, 4, 1]
+a max is 1
+b max is 11
+samelike is 9
+a is
+[0, 1, 9]
+b is
+[1, 2, 8]
+a is
+[13, 'null']
+b is
+[6, 2, 2]
+a max is 1
+b max is 9
+samelike is 10
+a is
+[0, 1, 9]
+b is
+[1, 10, 2]
+a is
+[13, 'null']
+b is
+[5, 7, 0]
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 3]
+a is
+[13, 'null']
+b is
+[2, 5, 6]
+a max is 1
+b max is 3
+samelike is 7
+a is
+[0, 1, 9]
+b is
+[7, 5, 3]
+a is
+[13, 'null']
+b is
+[3, 5, 6]
+a max is 1
+b max is 2
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[4, 3, 2]
+a is
+[13, 'null']
+b is
+[3, 7, 'null']
+a max is 1
+b max is 2
+samelike is 7
+a is
+[0, 1, 9]
+b is
+[6, 2, 0]
+a is
+[13, 'null']
+b is
+[3, 3, 'null']
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 3]
+a is
+[13, 'null']
+b is
+[2, 5, 6]
+a max is 1
+b max is 12
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 0]
+a is
+[13, 'null']
+b is
+[2, 5, 5]
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 3]
+a is
+[13, 'null']
+b is
+[2, 5, 6]
+a max is 1
+b max is 1
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[0, 5, 0]
+a is
+[13, 'null']
+b is
+[3, 'null']
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 3]
+a is
+[13, 'null']
+b is
+[3, 4, 6]
+a max is 1
+b max is 4
+samelike is 9
+a is
+[0, 1, 9]
+b is
+[7, 3, 2]
+a is
+[13, 'null']
+b is
+[1, 5, 6]
+a max is 1
+b max is 2
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[4, 3, 2]
+a is
+[13, 'null']
+b is
+[3, 7, 'null']
+a max is 1
+b max is 11
+samelike is 9
+a is
+[0, 1, 9]
+b is
+[8, 3, 3]
+a is
+[13, 'null']
+b is
+[8, 0, 5]
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 3]
+a is
+[13, 'null']
+b is
+[2, 5, 7]
+a max is 1
+b max is 3
+samelike is 7
+a is
+[0, 1, 9]
+b is
+[5, 5, 5]
+a is
+[13, 'null']
+b is
+[3, 5, 6]
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 4]
+a is
+[13, 'null']
+b is
+[1, 4, 5]
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 4]
+a is
+[13, 'null']
+b is
+[1, 4, 5]
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 0]
+a is
+[13, 'null']
+b is
+[2, 5, 6]
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 0]
+a is
+[13, 'null']
+b is
+[2, 5, 6]
+a max is 1
+b max is 6
+samelike is 9
+a is
+[0, 1, 9]
+b is
+[1, 6, 4]
+a is
+[13, 'null']
+b is
+[6, 4, -5]
+a max is 1
+b max is 2
+samelike is 10
+a is
+[0, 1, 9]
+b is
+[3, 6, 3]
+a is
+[13, 'null']
+b is
+[5, 6, 'null']
+a max is 1
+b max is 2
+samelike is 7
+a is
+[0, 1, 9]
+b is
+[4, 5, 0]
+a is
+[13, 'null']
+b is
+[2, 6, 'null']
+a max is 1
+b max is 2
+samelike is 9
+a is
+[0, 1, 9]
+b is
+[2, 6, 3]
+a is
+[13, 'null']
+b is
+[4, 7, 'null']
+a max is 1
+b max is 2
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[4, 7, 3]
+a is
+[13, 'null']
+b is
+[5, 6, 'null']
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[5, 6, 3]
+a is
+[13, 'null']
+b is
+[2, 4, -1]
+a max is 1
+b max is 2
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[4, 3, 2]
+a is
+[13, 'null']
+b is
+[3, 8, 'null']
+a max is 1
+b max is 11
+samelike is 7
+a is
+[0, 1, 9]
+b is
+[6, 6, 4]
+a is
+[13, 'null']
+b is
+[3, 5, 7]
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[5, 6, 3]
+a is
+[13, 'null']
+b is
+[2, 5, 6]
+a max is 1
+b max is 2
+samelike is 10
+a is
+[0, 1, 9]
+b is
+[3, 6, 3]
+a is
+[13, 'null']
+b is
+[5, 6, 'null']
+a max is 1
+b max is 4
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[5, -1, 1]
+a is
+[13, 'null']
+b is
+[1, 2, 3]
+a max is 1
+b max is 4
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[4, 0, 0]
+a is
+[13, 'null']
+b is
+[1, 2, 2]
+a max is 1
+b max is 8
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 3]
+a is
+[13, 'null']
+b is
+[2, 5, 6]
+a max is 1
+b max is 3
+samelike is 7
+a is
+[0, 1, 9]
+b is
+[9, 3, 3]
+a is
+[13, 'null']
+b is
+[3, 6, 6]
+a max is 1
+b max is 3
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[8, 5, 3]
+a is
+[13, 'null']
+b is
+[5, 7, 5]
+a max is 1
+b max is 4
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[0, 2, 4]
+a is
+[13, 'null']
+b is
+[3, 4, 4]
+a max is 1
+b max is 2
+samelike is 10
+a is
+[0, 1, 9]
+b is
+[0, 7, 3]
+a is
+[13, 'null']
+b is
+[7, 6, 'null']
+a max is 1
+b max is 4
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[8, 5, 0]
+a is
+[13, 'null']
+b is
+[2, 8, 7]
+a max is 1
+b max is 6
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[2, -1, 1]
+a is
+[13, 'null']
+b is
+[3, 1, 1]
+a max is 1
+b max is 5
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[3, 0, -1]
+a is
+[13, 'null']
+b is
+[3, 1, 1]
+a max is 1
+b max is 6
+samelike is 9
+a is
+[0, 1, 9]
+b is
+[2, 6, 5]
+a is
+[13, 'null']
+b is
+[8, 0, 3]
+a max is 1
+b max is 3
+samelike is 9
+a is
+[0, 1, 9]
+b is
+[3, 6, 1]
+a is
+[13, 'null']
+b is
+[2, 6, 4]
+a max is 1
+b max is 2
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[2, 1, 0]
+a is
+[13, 'null']
+b is
+[1, 2, 'null']
+a max is 1
+b max is 2
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[2, 0, 0]
+a is
+[13, 'null']
+b is
+[1, 1, 'null']
+[(0, '2.gif'), (0, '3.gif'), (0, '5.gif'), (0, '7.gif'), (0, '8.gif'), (0, 'S (2).gif'), (0, 'U.gif'), (0, 'W.gif'), (0, 'X (2).gif'), (0, 'Z (2).gif'), (0, 'e.gif'), (0, 's.gif'), (0, 'x.gif'), (0, 'z.gif'), (30625, 'N (2).gif'), (30625, 'b.gif'), (30625, 'h.gif'), (30625, 'q.gif'), (35000, '4.gif'), (35000, 'B (2).gif'), (35000, 'D (2).gif'), (35000, 'E (2).gif'), (35000, 'F (2).gif'), (35000, 'J (2).gif'), (35000, 'J.gif'), (35000, 'K (2).gif'), (35000, 'P_2.gif'), (35000, 'R (2).gif'), (35000, 'T (2).gif'), (35000, 'd.gif'), (35000, 'h (2).gif'), (35000, 'k.gif'), (35000, 'p.gif'), (49000, 't.gif'), (55125, 'c.gif'), (55125, 'y.gif'), (56000, 'C (2).gif'), (56000, 'G (2).gif'), (56000, 'Q (2).gif'), (60025, '6.gif'), (61250, 'm.gif'), (61250, 'r.gif'), (63000, 'Y (2).gif'), (63000, 'f.gif'), (63000, 'g.gif'), (63000, 'n.gif'), (70875, 'M (2).gif'), (78750, 'a.gif'), (87500, 'v.gif'), (120050, '9.gif'), (126000, 'V (2).gif'), (229635, 'A (2).gif')]
+[(0, '2.gif'), (0, '3.gif'), (0, '5.gif'), (0, '7.gif'), (0, '8.gif'), (0, 'S (2).gif'), (0, 'U.gif'), (0, 'W.gif'), (0, 'X (2).gif'), (0, 'Z (2).gif'), (0, 'e.gif'), (0, 's.gif'), (0, 'x.gif'), (0, 'z.gif'), (30625, 'N (2).gif'), (30625, 'b.gif'), (30625, 'h.gif'), (30625, 'q.gif'), (35000, '4.gif'), (35000, 'B (2).gif'), (35000, 'D (2).gif'), (35000, 'E (2).gif'), (35000, 'F (2).gif'), (35000, 'J (2).gif'), (35000, 'J.gif'), (35000, 'K (2).gif'), (35000, 'P_2.gif'), (35000, 'R (2).gif'), (35000, 'T (2).gif'), (35000, 'd.gif'), (35000, 'h (2).gif'), (35000, 'k.gif'), (35000, 'p.gif'), (49000, 't.gif'), (55125, 'c.gif'), (55125, 'y.gif'), (56000, 'C (2).gif'), (56000, 'G (2).gif'), (56000, 'Q (2).gif'), (60025, '6.gif'), (61250, 'm.gif'), (61250, 'r.gif'), (63000, 'Y (2).gif'), (63000, 'f.gif'), (63000, 'g.gif'), (63000, 'n.gif'), (70875, 'M (2).gif'), (78750, 'a.gif'), (87500, 'v.gif'), (120050, '9.gif'), (126000, 'V (2).gif'), (229635, 'A (2).gif')]
+~~~~~~~~~~~~~~~~~~~~
+a max is 1
+b max is 11
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[2, 2, 4]
+a is
+[13, 'null']
+b is
+[6, 1, 0]
+a max is 1
+b max is 10
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[1, 2, 3]
+a is
+[13, 'null']
+b is
+[5, 0, 2]
+a max is 1
+b max is 11
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 3]
+a is
+[13, 'null']
+b is
+[2, 5, 6]
+a max is 1
+b max is 4
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[4, 3, -1]
+a is
+[13, 'null']
+b is
+[5, 1, 1]
+a max is 1
+b max is 2
+samelike is 7
+a is
+[0, 1, 9]
+b is
+[3, 4, 1]
+a is
+[13, 'null']
+b is
+[1, 7, 'null']
+a max is 1
+b max is 5
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[1, 1, 1]
+a is
+[13, 'null']
+b is
+[1, 2, 2]
+a max is 1
+b max is 5
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[5, 1, 0]
+a is
+[13, 'null']
+b is
+[3, 0, -2]
+a max is 1
+b max is 12
+samelike is 10
+a is
+[0, 1, 9]
+b is
+[3, 4, 6]
+a is
+[13, 'null']
+b is
+[6, 4, 1]
+a max is 1
+b max is 11
+samelike is 9
+a is
+[0, 1, 9]
+b is
+[1, 2, 8]
+a is
+[13, 'null']
+b is
+[6, 2, 2]
+a max is 1
+b max is 9
+samelike is 10
+a is
+[0, 1, 9]
+b is
+[1, 10, 2]
+a is
+[13, 'null']
+b is
+[5, 7, 0]
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 3]
+a is
+[13, 'null']
+b is
+[2, 5, 6]
+a max is 1
+b max is 3
+samelike is 7
+a is
+[0, 1, 9]
+b is
+[7, 5, 3]
+a is
+[13, 'null']
+b is
+[3, 5, 6]
+a max is 1
+b max is 2
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[4, 3, 2]
+a is
+[13, 'null']
+b is
+[3, 7, 'null']
+a max is 1
+b max is 2
+samelike is 7
+a is
+[0, 1, 9]
+b is
+[6, 2, 0]
+a is
+[13, 'null']
+b is
+[3, 3, 'null']
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 3]
+a is
+[13, 'null']
+b is
+[2, 5, 6]
+a max is 1
+b max is 12
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 0]
+a is
+[13, 'null']
+b is
+[2, 5, 5]
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 3]
+a is
+[13, 'null']
+b is
+[2, 5, 6]
+a max is 1
+b max is 1
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[0, 5, 0]
+a is
+[13, 'null']
+b is
+[3, 'null']
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 3]
+a is
+[13, 'null']
+b is
+[3, 4, 6]
+a max is 1
+b max is 4
+samelike is 9
+a is
+[0, 1, 9]
+b is
+[7, 3, 2]
+a is
+[13, 'null']
+b is
+[1, 5, 6]
+a max is 1
+b max is 2
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[4, 3, 2]
+a is
+[13, 'null']
+b is
+[3, 7, 'null']
+a max is 1
+b max is 11
+samelike is 9
+a is
+[0, 1, 9]
+b is
+[8, 3, 3]
+a is
+[13, 'null']
+b is
+[8, 0, 5]
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 3]
+a is
+[13, 'null']
+b is
+[2, 5, 7]
+a max is 1
+b max is 3
+samelike is 7
+a is
+[0, 1, 9]
+b is
+[5, 5, 5]
+a is
+[13, 'null']
+b is
+[3, 5, 6]
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 4]
+a is
+[13, 'null']
+b is
+[1, 4, 5]
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 4]
+a is
+[13, 'null']
+b is
+[1, 4, 5]
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 0]
+a is
+[13, 'null']
+b is
+[2, 5, 6]
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 0]
+a is
+[13, 'null']
+b is
+[2, 5, 6]
+a max is 1
+b max is 6
+samelike is 9
+a is
+[0, 1, 9]
+b is
+[1, 6, 4]
+a is
+[13, 'null']
+b is
+[6, 4, -5]
+a max is 1
+b max is 2
+samelike is 10
+a is
+[0, 1, 9]
+b is
+[3, 6, 3]
+a is
+[13, 'null']
+b is
+[5, 6, 'null']
+a max is 1
+b max is 2
+samelike is 7
+a is
+[0, 1, 9]
+b is
+[4, 5, 0]
+a is
+[13, 'null']
+b is
+[2, 6, 'null']
+a max is 1
+b max is 2
+samelike is 9
+a is
+[0, 1, 9]
+b is
+[2, 6, 3]
+a is
+[13, 'null']
+b is
+[4, 7, 'null']
+a max is 1
+b max is 2
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[4, 7, 3]
+a is
+[13, 'null']
+b is
+[5, 6, 'null']
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[5, 6, 3]
+a is
+[13, 'null']
+b is
+[2, 4, -1]
+a max is 1
+b max is 2
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[4, 3, 2]
+a is
+[13, 'null']
+b is
+[3, 8, 'null']
+a max is 1
+b max is 11
+samelike is 7
+a is
+[0, 1, 9]
+b is
+[6, 6, 4]
+a is
+[13, 'null']
+b is
+[3, 5, 7]
+a max is 1
+b max is 3
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[5, 6, 3]
+a is
+[13, 'null']
+b is
+[2, 5, 6]
+a max is 1
+b max is 2
+samelike is 10
+a is
+[0, 1, 9]
+b is
+[3, 6, 3]
+a is
+[13, 'null']
+b is
+[5, 6, 'null']
+a max is 1
+b max is 4
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[5, -1, 1]
+a is
+[13, 'null']
+b is
+[1, 2, 3]
+a max is 1
+b max is 4
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[4, 0, 0]
+a is
+[13, 'null']
+b is
+[1, 2, 2]
+a max is 1
+b max is 8
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[6, 5, 3]
+a is
+[13, 'null']
+b is
+[2, 5, 6]
+a max is 1
+b max is 3
+samelike is 7
+a is
+[0, 1, 9]
+b is
+[9, 3, 3]
+a is
+[13, 'null']
+b is
+[3, 6, 6]
+a max is 1
+b max is 3
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[8, 5, 3]
+a is
+[13, 'null']
+b is
+[5, 7, 5]
+a max is 1
+b max is 4
+samelike is 8
+a is
+[0, 1, 9]
+b is
+[0, 2, 4]
+a is
+[13, 'null']
+b is
+[3, 4, 4]
+a max is 1
+b max is 2
+samelike is 10
+a is
+[0, 1, 9]
+b is
+[0, 7, 3]
+a is
+[13, 'null']
+b is
+[7, 6, 'null']
+a max is 1
+b max is 4
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[8, 5, 0]
+a is
+[13, 'null']
+b is
+[2, 8, 7]
+a max is 1
+b max is 6
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[2, -1, 1]
+a is
+[13, 'null']
+b is
+[3, 1, 1]
+a max is 1
+b max is 5
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[3, 0, -1]
+a is
+[13, 'null']
+b is
+[3, 1, 1]
+a max is 1
+b max is 6
+samelike is 9
+a is
+[0, 1, 9]
+b is
+[2, 6, 5]
+a is
+[13, 'null']
+b is
+[8, 0, 3]
+a max is 1
+b max is 3
+samelike is 9
+a is
+[0, 1, 9]
+b is
+[3, 6, 1]
+a is
+[13, 'null']
+b is
+[2, 6, 4]
+a max is 1
+b max is 2
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[2, 1, 0]
+a is
+[13, 'null']
+b is
+[1, 2, 'null']
+a max is 1
+b max is 2
+samelike is 0
+a is
+[0, 1, 9]
+b is
+[2, 0, 0]
+a is
+[13, 'null']
+b is
+[1, 1, 'null']
+
